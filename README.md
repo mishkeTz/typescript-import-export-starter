@@ -1,3 +1,3 @@
-# typescript-import-export-starter
+# TypeScript Import Export Starter Simple Example
 
-*npm install es6-module-loader traceur systemjs --save-dev*
+**npm install es6-module-loader traceur systemjs --save-dev**
